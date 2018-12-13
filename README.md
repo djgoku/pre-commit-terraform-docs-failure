@@ -1,6 +1,8 @@
 
 #### Branch 1.7.4
 
+``` shell
+
 djgoku$ git status
 On branch 1.7.4
 nothing to commit, working tree clean
@@ -9,10 +11,11 @@ Terraform docs...........................................................Failed
 djgoku$ git status
 On branch 1.7.4
 nothing to commit, working tree clean
-
+```
 
 #### Branch 1.7.3
 
+``` shell
 djgoku$ git checkout 1.7.3
 Switched to branch '1.7.3'
 djgoku$ git status
@@ -37,3 +40,4 @@ Changes not staged for commit:
   modified:   README.md
 
 no changes added to commit (use "git add" and/or "git commit -a")
+```
